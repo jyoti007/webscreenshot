@@ -1,0 +1,10 @@
+{
+"name":"webshot",
+"author":"jyoti",
+"dependencies":
+{
+"tmp" : "*",
+"phantomjs": "*",
+"webshot" : "*"
+}
+}
